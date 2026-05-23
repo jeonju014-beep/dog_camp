@@ -62,6 +62,7 @@ npm run dev
 ## 문서
 
 - [PRD.md](./PRD.md) — 제품 요구사항 정의서
+- [HANDOVER.md](./HANDOVER.md) — 인수인계서
 
 ## 기술 스택
 
